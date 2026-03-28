@@ -14,7 +14,7 @@
 - 💡 Interested in **Cybersecurity, Web Apps & Real-world Projects**
 - 🤝 Open to collaborate on **innovative tech projects**
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, GitHub**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **diksha1809sharma@gmail.com**
 - ⚡ Fun fact: *"I turn ideas into reality using code!"*
 
 ---
